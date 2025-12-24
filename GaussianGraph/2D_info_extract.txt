@@ -1,0 +1,53 @@
+这个脚本的主要功能是从 2D 图像中提取丰富的语义和几何信息，构建场景图（Scene Graph），通常用于辅助 3D 场景理解（如 3D Gaussian Splatting）。它集成了多个最先进的基础模型：
+
+1. OpenCLIP : 用于提取图像区域的语义特征向量。
+2. SAM 2 (Segment Anything Model 2) : 用于生成全图的多尺度分割掩码，以及针对检测到的对象生成精确掩码。
+3. LLaVA (Large Language-and-Vision Assistant) : 作为多模态大语言模型，负责：
+   - 识别图像中包含的主要对象类别。
+   - 生成对象的详细文本描述（Caption）。
+   - 分析对象之间的空间关系（Relationship）。
+4. GroundingDINO : 根据 LLaVA 提供的类别名称，在图像中进行开放词汇的目标检测（检测框）。
+### 代码逐行/模块详细解释
+我将代码分为几个主要模块进行解释：
+ 1. 导入与配置 (Imports & Config)
+- Imports : 导入了 torch , cv2 , PIL 等基础库，以及 transformers , open_clip 等模型库。特别注意它还导入了自定义的子模块如 sam2 , groundingdino , llava 。
+- OpenCLIPNetwork :
+  - 封装了 OpenCLIP 模型。
+  - encode_image : 将图像块编码为特征向量。
+  - encode_texts : 将文本标签编码为特征向量。 2. LLaVaChat 类
+- 这是一个 LLaVA 模型的封装类，简化了对话流程。
+- __init__ : 加载 LLaVA 模型、分词器和图像处理器。根据模型名称自动选择对话模板（ conv_mode ）。
+- preprocess_image : 对输入图像进行预处理，使其符合 LLaVA 的输入要求。
+- __call__ : 核心推理函数。接收文本查询（Prompt）和图像特征，生成模型的文本回复。 3. 核心功能函数 describe_LLAVA
+这是一个通用的 LLaVA 调用接口，根据 mode 参数执行不同任务：
+
+- mode="category" : 询问 LLaVA “这张图里有哪些主要物体？”，返回物体类别列表（如 "Chair, Table, Window"）。
+- mode="captions" : 给定一个物体的裁剪图像和类别，询问 LLaVA “描述这个物体”，返回详细描述（如 "a wooden chair with red cushion"）。
+- mode="relationships" : 给定两个物体的类别和坐标框，询问 LLaVA “这两个物体是什么空间关系？”，返回关系描述（如 "The cup is on the table"）。 4. 辅助函数 (Utils)
+- mask_nms : 实现掩码的非极大值抑制（NMS），去除重叠度过高且分数较低的冗余掩码。
+- masks_update : 结合稳定性分数和 IoU 预测更新掩码列表。
+- get_seg_img / get_bbox_img : 根据掩码或检测框从原图中裁剪出物体图像，背景置黑。
+- pad_img : 将裁剪后的非正方形图像填充为正方形，以便缩放输入模型。
+- compute_iou_matrix : 计算生成的掩码与现有分割图之间的 IoU 矩阵，用于匹配掩码。
+- is_overlapping / object_pairs : 计算两个检测框是否重叠以及中心点距离，用于筛选可能存在关系的对象对。 5. SAM 模型接口
+- sam_predictor : 结合 GroundingDINO 的检测框（Box Prompts），使用 SAM2 生成精确的对象分割掩码。它还会计算生成的掩码与全图分割（ sam_encoder 生成的）之间的匹配关系。
+- sam_encoder : 使用 SAM2 的 AutomaticMaskGenerator 生成全图的多尺度分割掩码（Small, Medium, Large），构建分层的分割图。 6. 核心流程 graph_construct
+这是处理单张图像的主函数：
+
+1. 预处理 : 读取并缩放图像。
+2. 全图分割 : 调用 sam_encoder 生成多层级的分割图。
+3. 特征提取 : 裁剪每个分割区域，通过 OpenCLIP 提取特征向量 ( clip_embeds )。
+4. 类别发现 : 调用 describe_LLAVA (mode='category') 获取图像中的物体类别。
+5. 目标检测 : 将类别列表传给 GroundingDINO ，检测图像中对应物体的边界框。
+6. 检测过滤 : 进行 NMS 去除重叠框，过滤低置信度检测。
+7. 掩码细化 : 调用 sam_predictor 根据检测框生成精确掩码。
+8. 生成描述 : 遍历检测到的对象，调用 describe_LLAVA (mode='captions') 生成描述。
+9. 生成关系 : 遍历对象对，筛选距离较近或重叠的对，调用 describe_LLAVA (mode='relationships') 生成关系描述。
+10. 返回 : 返回 CLIP 特征、分割图和包含语义信息的场景图字典 ( graph_dict )。 7. 主循环 create
+- 遍历输入文件夹中的所有图像。
+- 调用 graph_construct 处理每张图像。
+- 数据对齐与保存 :
+  - img_embeds : 保存 CLIP 特征。
+  - seg_maps : 保存分层分割图（为了节省空间，不同层级的掩码 ID 进行了偏移处理，叠加在同一个 Tensor 中）。
+  - graph_dict : 保存 JSON 格式的场景图数据（类别、检测框、描述、关系）。
+  - 最终保存为 .npy 和 .json 文件。

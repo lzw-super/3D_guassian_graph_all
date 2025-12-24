@@ -1,0 +1,45 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run GaussianGraph with SAM2 + GroundingDINO + LLaVA",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/GaussianGraph/2D_info_extract.py",  // 👈 替换为你的实际入口脚本
+            "args": [
+                "--config", "configs/sam2.1/sam2.1_hiera_l.yaml",
+                "--sam_ckpt", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/submodules/segment_anything/checkpoints/sam2.1_hiera_large.pt",
+                "--dataset_path", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/dataset",
+                "--gsa_config", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/submodules/groundingdino/groundingdino/config/GroundingDINO_SwinT_OGC.py",
+                "--gsa_ckpt", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/submodules/groundingdino/groundingdino_swint_ogc.pth",
+                "--llava_ckpt", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/submodules/llava/llava-next/llava_v1.6_vicuna",
+                "--device", "cuda:0",
+                "--fast_sam",
+                "--max_relations", "50",
+                "--relation_threshold", "0.2",
+                // "--skip_relations" , 
+                // "--skip_captions",
+                
+            ],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/GaussianGraph",
+            "env": {},
+            "justMyCode": false,
+            
+        },
+        {
+        "name": "调试 build_scene_graph",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/GaussianGraph/build_scene_graph.py",
+        "args": [
+            "--source_path", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/dataset",
+            "--model_path", "/home/zhengwu/Desktop/3D-Gaussian/GaussianGraph/output_hua/room5_experiment",
+            "--iteration", "70000"
+        ],
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}/GaussianGraph",
+        "justMyCode": true
+    }
+    ]
+}

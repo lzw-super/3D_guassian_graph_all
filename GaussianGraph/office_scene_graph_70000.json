@@ -1,0 +1,3043 @@
+{
+  "nodes": [
+    {
+      "id": 280,
+      "category": "Chair",
+      "caption": "A black chair with a black seat and backrest, sitting on a black floor.",
+      "center": [
+        2.566321601228501,
+        0.7257376155064156,
+        5.51900260911821
+      ],
+      "bbox": [
+        [
+          1.260833,
+          -0.745555,
+          4.095446
+        ],
+        [
+          3.932772,
+          1.962656,
+          6.219248
+        ]
+      ],
+      "point_count": 36630
+    },
+    {
+      "id": 480,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and a black seat.",
+      "center": [
+        3.9786531152421585,
+        -1.2619050609498803,
+        4.82965957555441
+      ],
+      "bbox": [
+        [
+          2.775037,
+          -2.269365,
+          4.479544
+        ],
+        [
+          5.01156,
+          -0.737029,
+          5.108538
+        ]
+      ],
+      "point_count": 21329
+    },
+    {
+      "id": 420,
+      "category": "Chair",
+      "caption": "A black chair with a gray cushion.",
+      "center": [
+        -3.7508629739630637,
+        2.7985944562518923,
+        -4.008676407205571
+      ],
+      "bbox": [
+        [
+          -4.366365,
+          1.996361,
+          -4.371508
+        ],
+        [
+          -2.713461,
+          3.892016,
+          -3.483806
+        ]
+      ],
+      "point_count": 19818
+    },
+    {
+      "id": 147,
+      "category": "Chair",
+      "caption": "A black metal chair with a mesh back.",
+      "center": [
+        4.170742451031094,
+        -1.8568160508759453,
+        4.577076965931864
+      ],
+      "bbox": [
+        [
+          2.666062,
+          -3.096513,
+          4.197511
+        ],
+        [
+          5.049697,
+          -1.402356,
+          4.822115
+        ]
+      ],
+      "point_count": 15469
+    },
+    {
+      "id": 561,
+      "category": "Chair",
+      "caption": "A black plastic chair with a black mesh back.",
+      "center": [
+        1.227647,
+        4.205187,
+        0.216495
+      ],
+      "bbox": [
+        [
+          0.644222,
+          3.786245,
+          -0.821919
+        ],
+        [
+          1.760018,
+          4.644302,
+          1.121603
+        ]
+      ],
+      "point_count": 11622
+    },
+    {
+      "id": 272,
+      "category": "Chair",
+      "caption": "A black chair with a gray cushion.",
+      "center": [
+        -2.207709298900306,
+        -0.9463572936722553,
+        4.472700621416982
+      ],
+      "bbox": [
+        [
+          -2.901994,
+          -1.364219,
+          4.092273
+        ],
+        [
+          -1.221031,
+          -0.361571,
+          4.700117
+        ]
+      ],
+      "point_count": 16641
+    },
+    {
+      "id": 83,
+      "category": "Chair",
+      "caption": "A black chair with a curved backrest.",
+      "center": [
+        -0.940143,
+        4.141464,
+        0.398473
+      ],
+      "bbox": [
+        [
+          -1.434365,
+          3.779523,
+          -0.751372
+        ],
+        [
+          -0.545402,
+          4.635005,
+          1.191705
+        ]
+      ],
+      "point_count": 10995
+    },
+    {
+      "id": 52,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back.",
+      "center": [
+        -4.517648,
+        2.917409,
+        2.732085
+      ],
+      "bbox": [
+        [
+          -4.9032,
+          1.663124,
+          1.836874
+        ],
+        [
+          -4.034781,
+          3.438272,
+          3.698397
+        ]
+      ],
+      "point_count": 10452
+    },
+    {
+      "id": 544,
+      "category": "Chair",
+      "caption": "A black plastic chair with a white table.",
+      "center": [
+        0.952903,
+        2.838685,
+        3.207228
+      ],
+      "bbox": [
+        [
+          0.727169,
+          2.382166,
+          2.340653
+        ],
+        [
+          1.39837,
+          3.26081,
+          4.019595
+        ]
+      ],
+      "point_count": 9148
+    },
+    {
+      "id": 382,
+      "category": "Chair",
+      "caption": "A black chair with a gray cushion.",
+      "center": [
+        -0.7098018838446788,
+        -1.3607741074304889,
+        4.157429018216682
+      ],
+      "bbox": [
+        [
+          -2.068893,
+          -2.837955,
+          3.502643
+        ],
+        [
+          0.025562,
+          -0.278063,
+          4.844526
+        ]
+      ],
+      "point_count": 20860
+    },
+    {
+      "id": 245,
+      "category": "Chair",
+      "caption": "A small, square, black object with a white border, possibly a picture frame or a small box, set against a black background.",
+      "center": [
+        4.220665360846723,
+        0.17569100928957593,
+        5.424520497563391
+      ],
+      "bbox": [
+        [
+          3.273656,
+          -0.735142,
+          4.956783
+        ],
+        [
+          5.155958,
+          1.957936,
+          6.157565
+        ]
+      ],
+      "point_count": 26266
+    },
+    {
+      "id": 443,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and armrests.",
+      "center": [
+        0.01861166839043312,
+        1.884475455505279,
+        5.148761158478776
+      ],
+      "bbox": [
+        [
+          -1.09849,
+          1.403652,
+          4.03143
+        ],
+        [
+          1.342292,
+          2.546231,
+          6.03711
+        ]
+      ],
+      "point_count": 18564
+    },
+    {
+      "id": 573,
+      "category": "Chair",
+      "caption": "A black office chair with a gray seat and backrest, featuring a metal frame and wheels.",
+      "center": [
+        0.9817674306487135,
+        5.080881200245269,
+        -2.1422227213935328
+      ],
+      "bbox": [
+        [
+          -0.766077,
+          4.597872,
+          -3.288286
+        ],
+        [
+          2.588044,
+          5.501321,
+          -0.716379
+        ]
+      ],
+      "point_count": 39956
+    },
+    {
+      "id": 490,
+      "category": "Chair",
+      "caption": "A black office chair with a gray seat and backrest, metal legs, and a black armrest.",
+      "center": [
+        -5.539479127150889,
+        4.599728188653529,
+        -0.955221114827645
+      ],
+      "bbox": [
+        [
+          -6.398756,
+          3.628513,
+          -2.219465
+        ],
+        [
+          -4.208737,
+          5.283635,
+          -0.038804
+        ]
+      ],
+      "point_count": 17609
+    },
+    {
+      "id": 592,
+      "category": "Chair",
+      "caption": "A black chair with a curved backrest.",
+      "center": [
+        -2.125235468437288,
+        3.8317675750507862,
+        1.1605655628620872
+      ],
+      "bbox": [
+        [
+          -2.902711,
+          3.362489,
+          0.485459
+        ],
+        [
+          -1.297995,
+          4.129326,
+          2.094536
+        ]
+      ],
+      "point_count": 13291
+    },
+    {
+      "id": 261,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest, metal legs, and a black armrest.",
+      "center": [
+        -0.44638545142002983,
+        4.977864038863976,
+        -1.6261264319880417
+      ],
+      "bbox": [
+        [
+          -1.247738,
+          4.693814,
+          -3.031673
+        ],
+        [
+          0.353919,
+          5.48079,
+          -0.929703
+        ]
+      ],
+      "point_count": 12042
+    },
+    {
+      "id": 475,
+      "category": "Chair",
+      "caption": "A black chair with a metal frame and a black cushion.",
+      "center": [
+        4.271183885675399,
+        2.621925388510831,
+        2.809418908188727
+      ],
+      "bbox": [
+        [
+          2.975167,
+          1.068716,
+          1.64034
+        ],
+        [
+          5.082795,
+          3.156228,
+          3.798117
+        ]
+      ],
+      "point_count": 17634
+    },
+    {
+      "id": 388,
+      "category": "Chair",
+      "caption": "A small, square, black object with a glass panel in the center.",
+      "center": [
+        -0.441667,
+        -0.835636,
+        3.545762
+      ],
+      "bbox": [
+        [
+          -0.983005,
+          -1.067885,
+          3.478792
+        ],
+        [
+          -0.009185,
+          -0.693595,
+          4.029166
+        ]
+      ],
+      "point_count": 7609
+    },
+    {
+      "id": 360,
+      "category": "Chair",
+      "caption": "A black chair with a gray cushion.",
+      "center": [
+        -3.6733316442884845,
+        4.28883077144704,
+        0.11994586960938221
+      ],
+      "bbox": [
+        [
+          -4.406846,
+          3.720397,
+          -1.27304
+        ],
+        [
+          -2.965018,
+          4.867468,
+          1.390197
+        ]
+      ],
+      "point_count": 10829
+    },
+    {
+      "id": 191,
+      "category": "Chair",
+      "caption": "A black office chair with a black armrest.",
+      "center": [
+        -0.5801587853372858,
+        3.20752844436411,
+        2.5179618027619117
+      ],
+      "bbox": [
+        [
+          -1.105295,
+          2.572312,
+          1.311735
+        ],
+        [
+          0.259186,
+          3.728759,
+          3.952358
+        ]
+      ],
+      "point_count": 13831
+    },
+    {
+      "id": 442,
+      "category": "Chair",
+      "caption": "A black office chair with a white table.",
+      "center": [
+        -0.4904,
+        2.237866,
+        4.324069
+      ],
+      "bbox": [
+        [
+          -0.789931,
+          2.071047,
+          4.061032
+        ],
+        [
+          0.312572,
+          2.495315,
+          4.901862
+        ]
+      ],
+      "point_count": 7157
+    },
+    {
+      "id": 204,
+      "category": "Chair",
+      "caption": "A black chair with a black seat and backrest.",
+      "center": [
+        -4.7592592439613535,
+        3.078935502415459,
+        0.7689483730542137
+      ],
+      "bbox": [
+        [
+          -5.984583,
+          2.419552,
+          -0.194723
+        ],
+        [
+          -4.547498,
+          3.969749,
+          1.567721
+        ]
+      ],
+      "point_count": 11178
+    },
+    {
+      "id": 103,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest, sitting in front of a white table.",
+      "center": [
+        -2.043253266623268,
+        0.7782717698316749,
+        4.996773082209616
+      ],
+      "bbox": [
+        [
+          -2.852664,
+          -0.139452,
+          4.5695
+        ],
+        [
+          -1.010686,
+          1.799858,
+          5.957708
+        ]
+      ],
+      "point_count": 10753
+    },
+    {
+      "id": 540,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest, metal legs, and a black armrest.",
+      "center": [
+        1.868406812383901,
+        2.166643210773994,
+        3.651816748359133
+      ],
+      "bbox": [
+        [
+          0.775678,
+          1.506436,
+          2.867988
+        ],
+        [
+          2.976393,
+          2.940146,
+          4.704251
+        ]
+      ],
+      "point_count": 8075
+    },
+    {
+      "id": 102,
+      "category": "Chair",
+      "caption": "A black chair with a mesh back.",
+      "center": [
+        -1.939137,
+        2.073802,
+        5.166811
+      ],
+      "bbox": [
+        [
+          -2.911241,
+          1.750321,
+          4.712173
+        ],
+        [
+          -1.333534,
+          2.258911,
+          5.490811
+        ]
+      ],
+      "point_count": 6431
+    },
+    {
+      "id": 316,
+      "category": "Chair",
+      "caption": "A black chair with a white cushion.",
+      "center": [
+        -4.867499,
+        2.071923,
+        -0.909481
+      ],
+      "bbox": [
+        [
+          -5.89155,
+          1.644825,
+          -1.817362
+        ],
+        [
+          -4.651813,
+          2.703148,
+          -0.28726
+        ]
+      ],
+      "point_count": 6425
+    },
+    {
+      "id": 82,
+      "category": "Chair",
+      "caption": "A black plastic chair with a mesh back.",
+      "center": [
+        0.061506,
+        4.167068,
+        0.358499
+      ],
+      "bbox": [
+        [
+          -0.370873,
+          3.845354,
+          -0.514779
+        ],
+        [
+          0.435473,
+          4.534531,
+          1.099836
+        ]
+      ],
+      "point_count": 5951
+    },
+    {
+      "id": 384,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest.",
+      "center": [
+        -1.409814,
+        -1.712253,
+        4.276048
+      ],
+      "bbox": [
+        [
+          -1.867163,
+          -2.296287,
+          3.806024
+        ],
+        [
+          -1.081182,
+          -1.340665,
+          4.65542
+        ]
+      ],
+      "point_count": 5580
+    },
+    {
+      "id": 186,
+      "category": "Chair",
+      "caption": "A small, square, black object with a white border, possibly a picture frame or a small box, set against a black background.",
+      "center": [
+        1.6891867144479018,
+        -1.4627558308384492,
+        4.464058412496845
+      ],
+      "bbox": [
+        [
+          0.112292,
+          -3.259386,
+          3.499197
+        ],
+        [
+          2.558159,
+          -0.200254,
+          5.370352
+        ]
+      ],
+      "point_count": 23782
+    },
+    {
+      "id": 60,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and a black seat.",
+      "center": [
+        -0.437447,
+        0.436376,
+        5.511179
+      ],
+      "bbox": [
+        [
+          -0.775985,
+          -0.281577,
+          4.992861
+        ],
+        [
+          1.245635,
+          1.479621,
+          6.079807
+        ]
+      ],
+      "point_count": 5430
+    },
+    {
+      "id": 353,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest, featuring a metal frame and wheels.",
+      "center": [
+        -1.8168236363577195,
+        4.606179406860194,
+        -0.6757238320749804
+      ],
+      "bbox": [
+        [
+          -3.386115,
+          4.164227,
+          -1.898335
+        ],
+        [
+          -0.934004,
+          5.083492,
+          0.353894
+        ]
+      ],
+      "point_count": 15364
+    },
+    {
+      "id": 350,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and silver metal legs.",
+      "center": [
+        -2.612476,
+        4.593288,
+        -0.63457
+      ],
+      "bbox": [
+        [
+          -3.042645,
+          4.214061,
+          -1.763429
+        ],
+        [
+          -2.261095,
+          5.065232,
+          0.197711
+        ]
+      ],
+      "point_count": 4978
+    },
+    {
+      "id": 273,
+      "category": "Chair",
+      "caption": "A black chair with a white cushion.",
+      "center": [
+        -3.16721,
+        -0.783598,
+        4.571606
+      ],
+      "bbox": [
+        [
+          -3.56325,
+          -1.287444,
+          4.125977
+        ],
+        [
+          -2.883577,
+          -0.315433,
+          4.828528
+        ]
+      ],
+      "point_count": 4683
+    },
+    {
+      "id": 503,
+      "category": "Chair",
+      "caption": "A black office chair with a metal frame and a black seat.",
+      "center": [
+        4.933585,
+        2.063993,
+        4.294376
+      ],
+      "bbox": [
+        [
+          4.609012,
+          1.574753,
+          3.779077
+        ],
+        [
+          5.226479,
+          2.433098,
+          5.027145
+        ]
+      ],
+      "point_count": 4539
+    },
+    {
+      "id": 341,
+      "category": "Chair",
+      "caption": "A black chair with a metal frame.",
+      "center": [
+        -3.29299,
+        2.262893,
+        4.73644
+      ],
+      "bbox": [
+        [
+          -3.963644,
+          1.939553,
+          3.917914
+        ],
+        [
+          -3.017999,
+          2.620615,
+          5.460691
+        ]
+      ],
+      "point_count": 3749
+    },
+    {
+      "id": 345,
+      "category": "Chair",
+      "caption": "A black chair with a gray seat and backrest, sitting in front of a white table.",
+      "center": [
+        -4.319393,
+        1.132302,
+        5.21417
+      ],
+      "bbox": [
+        [
+          -4.43388,
+          -0.144992,
+          4.630023
+        ],
+        [
+          -3.304135,
+          1.906638,
+          5.516183
+        ]
+      ],
+      "point_count": 3363
+    },
+    {
+      "id": 232,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back.",
+      "center": [
+        4.889030405079206,
+        -0.5786494161428212,
+        1.5693981679658031
+      ],
+      "bbox": [
+        [
+          4.714658,
+          -2.394471,
+          0.515484
+        ],
+        [
+          5.226806,
+          1.068949,
+          3.627128
+        ]
+      ],
+      "point_count": 7954
+    },
+    {
+      "id": 291,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and a black seat.",
+      "center": [
+        1.4773022579759862,
+        3.171809967238422,
+        -3.9351705612349916
+      ],
+      "bbox": [
+        [
+          1.153016,
+          1.771059,
+          -4.492337
+        ],
+        [
+          3.367917,
+          4.489513,
+          -3.350889
+        ]
+      ],
+      "point_count": 5830
+    },
+    {
+      "id": 505,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back.",
+      "center": [
+        3.678319,
+        1.77679,
+        5.671198
+      ],
+      "bbox": [
+        [
+          3.249869,
+          1.620251,
+          4.869906
+        ],
+        [
+          4.33262,
+          2.092771,
+          5.990773
+        ]
+      ],
+      "point_count": 2818
+    },
+    {
+      "id": 606,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back.",
+      "center": [
+        4.737513,
+        0.868486,
+        -0.386403
+      ],
+      "bbox": [
+        [
+          4.408194,
+          -0.798824,
+          -1.962143
+        ],
+        [
+          5.052216,
+          2.074678,
+          0.85886
+        ]
+      ],
+      "point_count": 2577
+    },
+    {
+      "id": 119,
+      "category": "Chair",
+      "caption": "A black chair with a gray seat and backrest, sitting on a gray floor.",
+      "center": [
+        4.13679,
+        5.170358,
+        -2.111773
+      ],
+      "bbox": [
+        [
+          2.964884,
+          4.746513,
+          -2.93795
+        ],
+        [
+          4.938624,
+          5.564886,
+          -1.182059
+        ]
+      ],
+      "point_count": 2387
+    },
+    {
+      "id": 336,
+      "category": "Chair",
+      "caption": "A black office chair with a black seat and backrest, metal legs, and a black armrest.",
+      "center": [
+        -1.688310407425265,
+        3.140669513018322,
+        -3.8813066975249115
+      ],
+      "bbox": [
+        [
+          -3.032612,
+          2.324937,
+          -4.28702
+        ],
+        [
+          -0.892489,
+          4.502098,
+          -3.310872
+        ]
+      ],
+      "point_count": 6222
+    },
+    {
+      "id": 504,
+      "category": "Chair",
+      "caption": "A black office chair with a mesh back and a silver base.",
+      "center": [
+        5.182657,
+        1.138183,
+        4.715148
+      ],
+      "bbox": [
+        [
+          5.078193,
+          0.13723,
+          3.611375
+        ],
+        [
+          5.359184,
+          1.650681,
+          5.327871
+        ]
+      ],
+      "point_count": 1498
+    },
+    {
+      "id": 413,
+      "category": "Chair",
+      "caption": "A black and gray chair with a mesh back.",
+      "center": [
+        -3.076254,
+        5.127022,
+        -2.79405
+      ],
+      "bbox": [
+        [
+          -4.820375,
+          3.889442,
+          -3.606964
+        ],
+        [
+          -1.846734,
+          5.5989,
+          -1.82398
+        ]
+      ],
+      "point_count": 1412
+    },
+    {
+      "id": 298,
+      "category": "Chair",
+      "caption": "A black chair with a metal frame and a plastic seat.",
+      "center": [
+        1.100132,
+        2.157578,
+        -4.344179
+      ],
+      "bbox": [
+        [
+          0.766775,
+          1.765,
+          -4.499445
+        ],
+        [
+          1.289754,
+          3.982678,
+          -3.560353
+        ]
+      ],
+      "point_count": 1066
+    },
+    {
+      "id": 162,
+      "category": "Chair",
+      "caption": "A black plastic chair with a metal frame.",
+      "center": [
+        -6.340489597517731,
+        1.0609296495271867,
+        -2.286186483451537
+      ],
+      "bbox": [
+        [
+          -6.618806,
+          -1.577295,
+          -3.327966
+        ],
+        [
+          -6.149669,
+          1.713961,
+          -0.362184
+        ]
+      ],
+      "point_count": 1692
+    },
+    {
+      "id": 458,
+      "category": "Chair",
+      "caption": "A black chair in front of a black background.",
+      "center": [
+        -7.102295726016885,
+        5.447542811204912,
+        -4.881770741366078
+      ],
+      "bbox": [
+        [
+          -9.911862,
+          2.149564,
+          -6.91259
+        ],
+        [
+          -5.60724,
+          6.323949,
+          -3.394595
+        ]
+      ],
+      "point_count": 1303
+    },
+    {
+      "id": 344,
+      "category": "Table",
+      "caption": "A white table with a black chair.",
+      "center": [
+        -4.451091,
+        1.47114,
+        4.56499
+      ],
+      "bbox": [
+        [
+          -4.525551,
+          -0.134944,
+          3.954952
+        ],
+        [
+          -4.361182,
+          2.324062,
+          5.247149
+        ]
+      ],
+      "point_count": 4525
+    },
+    {
+      "id": 455,
+      "category": "Table",
+      "caption": "A white table with a black border, surrounded by black chairs.",
+      "center": [
+        -6.560547,
+        5.63236,
+        -3.145566
+      ],
+      "bbox": [
+        [
+          -8.458161,
+          4.284496,
+          -4.786968
+        ],
+        [
+          -5.597798,
+          6.549258,
+          -2.329772
+        ]
+      ],
+      "point_count": 643
+    },
+    {
+      "id": 454,
+      "category": "Basket",
+      "caption": "A black metal basket with a handle.",
+      "center": [
+        -6.5022,
+        4.706981,
+        -3.461272
+      ],
+      "bbox": [
+        [
+          -9.914353,
+          3.135082,
+          -5.394783
+        ],
+        [
+          -5.335214,
+          6.324459,
+          -2.320513
+        ]
+      ],
+      "point_count": 475
+    },
+    {
+      "id": 511,
+      "category": "Door",
+      "caption": "A closed wooden door with a glass panel.",
+      "center": [
+        -3.466228313784143,
+        -1.8910253375030215,
+        4.259933976069615
+      ],
+      "bbox": [
+        [
+          -4.426885,
+          -2.94575,
+          3.516769
+        ],
+        [
+          -2.542148,
+          -0.640108,
+          4.687436
+        ]
+      ],
+      "point_count": 33096
+    },
+    {
+      "id": 390,
+      "category": "Door",
+      "caption": "A black door with a glass panel.",
+      "center": [
+        -1.858352,
+        -3.177988,
+        3.424383
+      ],
+      "bbox": [
+        [
+          -2.990969,
+          -3.802148,
+          3.154806
+        ],
+        [
+          -1.098311,
+          -2.695916,
+          4.194118
+        ]
+      ],
+      "point_count": 19104
+    },
+    {
+      "id": 73,
+      "category": "Door",
+      "caption": "A black door with a glass panel.",
+      "center": [
+        3.358346,
+        2.243162,
+        -4.36187
+      ],
+      "bbox": [
+        [
+          3.308478,
+          1.694563,
+          -4.625962
+        ],
+        [
+          3.417914,
+          2.876987,
+          -4.035237
+        ]
+      ],
+      "point_count": 1006
+    },
+    {
+      "id": 237,
+      "category": "Cabinet",
+      "caption": "A white cabinet with a glass door.",
+      "center": [
+        5.037327,
+        -0.721709,
+        1.943847
+      ],
+      "bbox": [
+        [
+          4.890176,
+          -2.092673,
+          1.051663
+        ],
+        [
+          5.18864,
+          0.712765,
+          3.474293
+        ]
+      ],
+      "point_count": 1546
+    },
+    {
+      "id": 62,
+      "category": "Desk",
+      "caption": "A white desk with a gray line in the middle.",
+      "center": [
+        0.430114,
+        0.548389,
+        5.511712
+      ],
+      "bbox": [
+        [
+          -0.408484,
+          0.068792,
+          5.338897
+        ],
+        [
+          1.69134,
+          1.350085,
+          5.978779
+        ]
+      ],
+      "point_count": 9029
+    },
+    {
+      "id": 110,
+      "category": "Desk",
+      "caption": "A black desk with a computer monitor and two chairs.",
+      "center": [
+        4.985375,
+        4.83835,
+        -2.090454
+      ],
+      "bbox": [
+        [
+          4.597699,
+          3.835349,
+          -3.573858
+        ],
+        [
+          5.11391,
+          5.442833,
+          -1.074879
+        ]
+      ],
+      "point_count": 1331
+    },
+    {
+      "id": 373,
+      "category": "Television",
+      "caption": "A black television screen displaying a white image of a remote control and a barcode.",
+      "center": [
+        -4.43477,
+        -3.846046,
+        2.816772
+      ],
+      "bbox": [
+        [
+          -4.513062,
+          -4.522288,
+          2.02816
+        ],
+        [
+          -4.22906,
+          -2.73178,
+          3.202346
+        ]
+      ],
+      "point_count": 7564
+    },
+    {
+      "id": 75,
+      "category": "Window",
+      "caption": "A window with a black frame.",
+      "center": [
+        4.844956,
+        1.28372,
+        -2.361677
+      ],
+      "bbox": [
+        [
+          4.594014,
+          0.433428,
+          -2.908608
+        ],
+        [
+          5.258683,
+          2.537703,
+          -1.900418
+        ]
+      ],
+      "point_count": 419
+    },
+    {
+      "id": 401,
+      "category": "Wall",
+      "caption": "A gray wall.",
+      "center": [
+        -2.434618,
+        1.456712,
+        -4.598847
+      ],
+      "bbox": [
+        [
+          -3.189642,
+          0.454754,
+          -5.067593
+        ],
+        [
+          -1.924064,
+          2.324622,
+          -4.237845
+        ]
+      ],
+      "point_count": 14668
+    },
+    {
+      "id": 530,
+      "category": "Wall",
+      "caption": "A gray wall.",
+      "center": [
+        -6.523684183783784,
+        0.39668307675675674,
+        -4.4497062043243245
+      ],
+      "bbox": [
+        [
+          -8.282293,
+          -0.918082,
+          -7.447209
+        ],
+        [
+          -6.190034,
+          1.949553,
+          -3.664992
+        ]
+      ],
+      "point_count": 4625
+    },
+    {
+      "id": 323,
+      "category": "Floor",
+      "caption": "A black office chair with wheels.",
+      "center": [
+        4.186409,
+        2.205099,
+        0.166331
+      ],
+      "bbox": [
+        [
+          3.839388,
+          1.832612,
+          -0.306204
+        ],
+        [
+          4.650956,
+          2.71996,
+          1.197218
+        ]
+      ],
+      "point_count": 6804
+    },
+    {
+      "id": 314,
+      "category": "Floor",
+      "caption": "A black office chair with wheels and a black seat.",
+      "center": [
+        -5.849815,
+        2.097918,
+        -1.091611
+      ],
+      "bbox": [
+        [
+          -6.344692,
+          1.597098,
+          -2.269696
+        ],
+        [
+          -4.698338,
+          2.942385,
+          -0.037195
+        ]
+      ],
+      "point_count": 3701
+    },
+    {
+      "id": 621,
+      "category": "Floor",
+      "caption": "A row of black chairs with metal legs and a gray seat.",
+      "center": [
+        1.668176,
+        -4.499161,
+        3.761945
+      ],
+      "bbox": [
+        [
+          -0.289524,
+          -5.815678,
+          3.082045
+        ],
+        [
+          2.108886,
+          -4.231841,
+          3.898966
+        ]
+      ],
+      "point_count": 2849
+    },
+    {
+      "id": 170,
+      "category": "Ceiling",
+      "caption": "A black ceiling with white lights.",
+      "center": [
+        4.773708,
+        -3.677469,
+        0.346423
+      ],
+      "bbox": [
+        [
+          4.633681,
+          -4.438656,
+          -1.664548
+        ],
+        [
+          5.067499,
+          -2.428903,
+          1.446816
+        ]
+      ],
+      "point_count": 11035
+    },
+    {
+      "id": 551,
+      "category": "Ceiling",
+      "caption": "A black ceiling with a white object attached to it.",
+      "center": [
+        3.914799045402204,
+        -0.4292609302516862,
+        -4.551096327356473
+      ],
+      "bbox": [
+        [
+          1.382105,
+          -1.587907,
+          -5.273809
+        ],
+        [
+          4.979915,
+          1.319837,
+          -3.210633
+        ]
+      ],
+      "point_count": 6079
+    },
+    {
+      "id": 43,
+      "category": "Screen",
+      "caption": "A small, rectangular, black screen with a white border and a white logo in the center.",
+      "center": [
+        -4.531593,
+        -0.8942,
+        1.776749
+      ],
+      "bbox": [
+        [
+          -4.62635,
+          -1.72355,
+          0.433089
+        ],
+        [
+          -4.474171,
+          0.510573,
+          2.495725
+        ]
+      ],
+      "point_count": 6323
+    }
+  ],
+  "edges": [
+    {
+      "source": 573,
+      "target": 261,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 350,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 455,
+      "relations": [
+        "Coarse: The chair is in front of the phone; Fine: The chair is positioned directly in front of the phone, with the backrest facing the phone."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 350,
+      "target": 455,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 350,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 573,
+      "relations": [
+        "Coarse: The wall is above the desk; Fine: The wall is positioned directly above the desk, creating a vertical boundary for the space."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 353,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 353,
+      "target": 573,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 353,
+      "target": 360,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 458,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are placed next to each other, with their necks touching, and are positioned near the center of the table."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 360,
+      "relations": [
+        "Coarse: The desk is in front of the chair; Fine: The desk is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 490,
+      "relations": [
+        "Coarse: The desk is in front of the phone; Fine: The desk is positioned directly in front of the phone, with the phone's top-left corner just above the desk's bottom-right corner."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 490,
+      "relations": [
+        "Coarse: The chair is in front of the phone; Fine: The chair is positioned directly in front of the phone, with the backrest facing the phone."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 573,
+      "relations": [
+        "Coarse: The desk is in front of the bottle; Fine: The desk is positioned directly in front of the bottle, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 458,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 353,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 454,
+      "target": 455,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 455,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 316,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 316,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 454,
+      "target": 316,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 261,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 353,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 573,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 455,
+      "relations": [
+        "Coarse: The table is in front of the phone; Fine: The table is positioned directly in front of the phone, with the phone's top-left corner just above the table's top-right corner."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 353,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 573,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 360,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 336,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 336,
+      "relations": [
+        "Coarse: The phone is on the table; Fine: The phone is placed on the table, slightly to the right of the chair, with its screen facing upward."
+      ]
+    },
+    {
+      "source": 455,
+      "target": 261,
+      "relations": [
+        "Coarse: Cord is above Chair; Fine: Cord is positioned above Chair, with its top-left corner overlapping Chair's top-right corner."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 119,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are arranged in a line, with the green bottle on the left and the white bottle on the right."
+      ]
+    },
+    {
+      "source": 454,
+      "target": 458,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing slightly upward."
+      ]
+    },
+    {
+      "source": 119,
+      "target": 490,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 490,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 573,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 353,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 119,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 454,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are placed side by side, with the green bottle slightly to the right of the red bottle."
+      ]
+    },
+    {
+      "source": 454,
+      "target": 490,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are placed side by side, with their necks aligned and their bodies parallel to each other."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 420,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 420,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 420,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 454,
+      "target": 420,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 204,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 336,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 291,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 336,
+      "target": 291,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the right of the center, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 204,
+      "target": 353,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 83,
+      "target": 573,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 83,
+      "target": 204,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 204,
+      "relations": [
+        "Coarse: The desk is in front of the chair; Fine: The desk is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 336,
+      "relations": [
+        "Coarse: The desk is in front of the chair; Fine: The desk is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 52,
+      "relations": [
+        "Coarse: The desk is in front of the bottle; Fine: The desk is positioned directly in front of the bottle, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 336,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the right of the center, with its cap facing upward."
+      ]
+    },
+    {
+      "source": 336,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 261,
+      "relations": [
+        "Coarse: The desk is in front of the chair; Fine: The desk is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 43,
+      "target": 511,
+      "relations": [
+        "Coarse: The television is above the door; Fine: The television is mounted on the wall above the door, at a height that allows for comfortable viewing from the doorway."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 83,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 511,
+      "relations": [
+        "Coarse: The chair is in front of the wall; Fine: The chair is positioned directly in front of the wall, with its back facing it."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 43,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the right of the center, with its cap facing upward."
+      ]
+    },
+    {
+      "source": 43,
+      "target": 52,
+      "relations": [
+        "Coarse: The television is above the bottle; Fine: The television is positioned directly above the bottle, with a clear vertical separation between them."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 83,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 511,
+      "relations": [
+        "Coarse: The table is in front of the wall; Fine: The table is positioned directly in front of the wall, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 83,
+      "target": 353,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 83,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 353,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 455,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 314,
+      "target": 52,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the left of the center, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 592,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 314,
+      "relations": [
+        "Coarse: The table is in front of the bottle; Fine: The table is positioned directly in front of the bottle, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 341,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 592,
+      "target": 314,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 314,
+      "target": 511,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing towards the right side of the image."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 103,
+      "relations": [
+        "Coarse: The door is behind the table; Fine: The door is positioned directly behind the table, with its frame aligned with the table's edge."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned at the front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 191,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 353,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 345,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 314,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 103,
+      "relations": [
+        "Coarse: The table is on the floor; Fine: The table is positioned centrally on the floor, with its corners aligned with the floor's corners."
+      ]
+    },
+    {
+      "source": 345,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned at the front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 382,
+      "relations": [
+        "Coarse: The door is behind the computer; Fine: The door is positioned directly behind the computer, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 360,
+      "relations": [
+        "Coarse: The door is behind the table; Fine: The door is positioned directly behind the table, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 344,
+      "relations": [
+        "Coarse: The door is behind the wall; Fine: The door is positioned directly behind the wall, with no overlap or visible gap between them."
+      ]
+    },
+    {
+      "source": 344,
+      "target": 360,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the left of the center, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 191,
+      "target": 360,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 191,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the floor; Fine: The chair is positioned directly in front of the floor, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 345,
+      "target": 360,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 592,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 360,
+      "target": 344,
+      "relations": [
+        "Coarse: The table is in front of the wall; Fine: The table is positioned directly in front of the wall, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 344,
+      "relations": [
+        "Coarse: The floor is next to the wall; Fine: The floor is adjacent to the wall, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 273,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 382,
+      "relations": [
+        "Coarse: The computer mouse is on the table; Fine: The computer mouse is positioned near the center of the table, with its cord trailing off to the side."
+      ]
+    },
+    {
+      "source": 384,
+      "target": 273,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 272,
+      "target": 186,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 272,
+      "relations": [
+        "Coarse: The object is on the table; Fine: The object is positioned near the center of the table, with its top edge aligned with the table's edge."
+      ]
+    },
+    {
+      "source": 245,
+      "target": 60,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 544,
+      "target": 102,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the left of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 540,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 245,
+      "target": 237,
+      "relations": [
+        "Coarse: The chair is in front of the cabinet; Fine: The chair is positioned directly in front of the cabinet, with its back facing the cabinet's front."
+      ]
+    },
+    {
+      "source": 540,
+      "target": 103,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 237,
+      "target": 245,
+      "relations": [
+        "Coarse: The chair is in front of the cabinet; Fine: The chair is positioned directly in front of the cabinet, with its back facing the cabinet's front."
+      ]
+    },
+    {
+      "source": 540,
+      "target": 443,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 540,
+      "target": 60,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 540,
+      "target": 62,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the desk's edge."
+      ]
+    },
+    {
+      "source": 475,
+      "target": 62,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the desk's edge."
+      ]
+    },
+    {
+      "source": 443,
+      "target": 62,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the desk's edge."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 245,
+      "relations": [
+        "Coarse: The desk is in front of the chair; Fine: The desk is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 540,
+      "target": 475,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 62,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 62,
+      "relations": [
+        "Coarse: The chair is in front of the desk; Fine: The chair is positioned directly in front of the desk, with its back facing the desk's edge."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 384,
+      "relations": [
+        "Coarse: The chair is in front of the cabinet; Fine: The chair is positioned directly in front of the cabinet, with its back facing the cabinet's front."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 384,
+      "relations": [
+        "Coarse: Desk is above Cabinet; Fine: Desk is positioned directly above Cabinet, with no overlap or containment."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 186,
+      "relations": [
+        "Coarse: The Cabinet is above the Chair; Fine: The Cabinet is positioned directly above the Chair, with a clear vertical separation between them."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 245,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 443,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 388,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 186,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 388,
+      "target": 186,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing the same direction."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 62,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, with its neck pointing towards the center."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 237,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 480,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 237,
+      "target": 480,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 186,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 280,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 280,
+      "relations": [
+        "Coarse: The chair is in front of the cabinet; Fine: The chair is positioned directly in front of the cabinet, with its back facing the viewer."
+      ]
+    },
+    {
+      "source": 475,
+      "target": 540,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 388,
+      "relations": [
+        "Coarse: The object is on the table; Fine: The object is positioned in the middle of the table, with its top edge aligned with the table's center."
+      ]
+    },
+    {
+      "source": 443,
+      "target": 540,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 505,
+      "target": 504,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are placed side by side, with the red bottle slightly to the left of the blue bottle."
+      ]
+    },
+    {
+      "source": 504,
+      "target": 245,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 505,
+      "target": 245,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 480,
+      "target": 237,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 480,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 280,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 561,
+      "target": 280,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the left of the center, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 75,
+      "target": 298,
+      "relations": [
+        "Coarse: The bottles are on the table; Fine: The bottles are placed side by side, with the red bottle slightly to the left of the blue bottle."
+      ]
+    },
+    {
+      "source": 298,
+      "target": 75,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, with its neck pointing towards the center."
+      ]
+    },
+    {
+      "source": 606,
+      "target": 75,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 261,
+      "target": 291,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 291,
+      "target": 119,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 291,
+      "target": 413,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 291,
+      "target": 360,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed on the table, slightly to the right of the center, with its cap facing upward."
+      ]
+    },
+    {
+      "source": 336,
+      "target": 490,
+      "relations": [
+        "Coarse: The basket is above the bottle; Fine: The basket is positioned directly above the bottle, with a clear vertical separation between them."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 490,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 413,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 119,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the table's edge."
+      ]
+    },
+    {
+      "source": 490,
+      "target": 413,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 592,
+      "target": 490,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 490,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 384,
+      "relations": [
+        "Coarse: The door is behind the chair; Fine: The door is positioned directly behind the chair, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 373,
+      "target": 511,
+      "relations": [
+        "Coarse: The television is above the door; Fine: The television is mounted on the wall above the door, which is closed."
+      ]
+    },
+    {
+      "source": 384,
+      "target": 272,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 60,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 60,
+      "target": 186,
+      "relations": [
+        "Coarse: The chair is in front of the bottle; Fine: The chair is positioned directly in front of the bottle, with the chair's front edge aligned with the bottle's base."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 272,
+      "relations": [
+        "Coarse: The door is behind the chair; Fine: The door is positioned directly behind the chair, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 373,
+      "target": 314,
+      "relations": [
+        "Coarse: The television is above the bottle; Fine: The television is positioned directly above the bottle, with a clear vertical separation between them."
+      ]
+    },
+    {
+      "source": 314,
+      "target": 272,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 272,
+      "target": 511,
+      "relations": [
+        "Coarse: The chair is in front of the door; Fine: The chair is positioned directly in front of the door, with its back facing the door."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 272,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 373,
+      "target": 52,
+      "relations": [
+        "Coarse: The television is above the bottle; Fine: The television is positioned directly above the bottle, with a clear vertical separation between them."
+      ]
+    },
+    {
+      "source": 344,
+      "target": 186,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 344,
+      "target": 280,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with no overlap or overlapping parts."
+      ]
+    },
+    {
+      "source": 344,
+      "target": 382,
+      "relations": [
+        "Coarse: The table is in front of the chair; Fine: The table is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 344,
+      "target": 52,
+      "relations": [
+        "Coarse: The table is in front of the bottle; Fine: The table is positioned directly in front of the bottle, with a clear line of sight between them."
+      ]
+    },
+    {
+      "source": 52,
+      "target": 382,
+      "relations": [
+        "Coarse: The mouse is above the computer; Fine: The mouse is positioned directly above the computer, with a clear vertical separation between the two objects."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 52,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 52,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 388,
+      "target": 103,
+      "relations": [
+        "Coarse: The object is on the table; Fine: The object is positioned in the center of the table, with its top edge aligned with the table's edge."
+      ]
+    },
+    {
+      "source": 480,
+      "target": 280,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 345,
+      "relations": [
+        "Coarse: The chair is in front of the keyboard; Fine: The chair is positioned directly in front of the keyboard, with the backrest facing the keyboard."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 511,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 60,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 60,
+      "target": 103,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 503,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 245,
+      "target": 103,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 60,
+      "relations": [
+        "Coarse: The chair is in front of the chair; Fine: The chair is positioned directly in front of the chair, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 245,
+      "target": 186,
+      "relations": [
+        "Coarse: The chair is in front of the bottle; Fine: The chair is positioned directly in front of the bottle, with the chair's front edge aligned with the bottle's base."
+      ]
+    },
+    {
+      "source": 480,
+      "target": 245,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing the same direction."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 480,
+      "relations": [
+        "Coarse: The bottle is on the table; Fine: The bottle is placed near the center of the table, with its neck pointing upward."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 245,
+      "relations": [
+        "Coarse: The chair is in front of the bottle; Fine: The chair is positioned directly in front of the bottle, with the chair's front edge aligned with the bottle's base."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 345,
+      "relations": [
+        "Coarse: The chair is in front of the keyboard; Fine: The chair is positioned directly in front of the keyboard, with the backrest facing the keyboard."
+      ]
+    },
+    {
+      "source": 60,
+      "target": 245,
+      "relations": [
+        "Coarse: The chair is next to the chair; Fine: The chair is positioned to the right of the chair, with a slight overlap in the front."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 280,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 103,
+      "target": 245,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 280,
+      "target": 475,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 475,
+      "target": 147,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 475,
+      "target": 232,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 147,
+      "target": 232,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 420,
+      "target": 401,
+      "relations": [
+        "Coarse: The chair is in front of the wall; Fine: The chair is positioned directly in front of the wall, with its back facing it."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 401,
+      "relations": [
+        "Coarse: The chair is in front of the wall; Fine: The chair is positioned directly in front of the wall, with its back facing it."
+      ]
+    },
+    {
+      "source": 530,
+      "target": 458,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 336,
+      "target": 530,
+      "relations": [
+        "Coarse: The ergonomic chair is in front of the floor; Fine: The ergonomic chair is positioned directly in front of the floor, with its base and seat aligned."
+      ]
+    },
+    {
+      "source": 530,
+      "target": 336,
+      "relations": [
+        "Coarse: The floor is in the room; Fine: The floor is a large, flat surface that spans the entire room, providing a stable base for the furniture."
+      ]
+    },
+    {
+      "source": 530,
+      "target": 551,
+      "relations": [
+        "Coarse: The wall is above the ceiling; Fine: The wall is positioned directly above the ceiling, creating a flat, unobstructed surface."
+      ]
+    },
+    {
+      "source": 314,
+      "target": 530,
+      "relations": [
+        "Coarse: The floor is next to the wall; Fine: The floor is adjacent to the wall, with a slight overlap at the bottom corner."
+      ]
+    },
+    {
+      "source": 458,
+      "target": 162,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 573,
+      "target": 298,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 204,
+      "target": 530,
+      "relations": [
+        "Coarse: The floor is next to the wall; Fine: The floor is adjacent to the wall, with a slight overlap at the bottom."
+      ]
+    },
+    {
+      "source": 373,
+      "target": 458,
+      "relations": [
+        "Coarse: The television is above the chair; Fine: The television is mounted on the wall above the chair, at a height that allows for comfortable viewing."
+      ]
+    },
+    {
+      "source": 511,
+      "target": 530,
+      "relations": [
+        "Coarse: The door is in front of the floor; Fine: The door is positioned directly in front of the floor, with a clear separation between the two objects."
+      ]
+    },
+    {
+      "source": 62,
+      "target": 382,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 43,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 147,
+      "target": 186,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 186,
+      "target": 232,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 232,
+      "target": 280,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 480,
+      "target": 186,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    },
+    {
+      "source": 382,
+      "target": 147,
+      "relations": [
+        "Coarse: The chair is in front of the table; Fine: The chair is positioned directly in front of the table, with its back facing the camera."
+      ]
+    },
+    {
+      "source": 147,
+      "target": 272,
+      "relations": [
+        "Coarse: The chairs are next to each other; Fine: The chairs are positioned side by side, with their backs facing each other."
+      ]
+    }
+  ]
+}

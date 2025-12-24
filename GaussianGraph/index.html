@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding</title>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="First Author" target="_blank">Xihan Wang</a><sup></sup>,</span>
+                <span class="author-block">
+                  <a href="Second Author" target="_blank">Dianyi Yang</a><sup></sup>,</span>
+                  <span class="author-block">
+                    <a href="Third Author" target="_blank">Yu Gao</a>
+                  </span>
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block">Beijing Institute of Technology<br>IROS2025</span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <span class="link-block">
+                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+                    <!-- Supplementary PDF link -->
+                    <span class="link-block">
+                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Supplementary</span>
+                    </a>
+                  </span>
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/WangXihan-bit/GaussianGraph/" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2503.04034" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Teaser video-->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video poster="" id="tree" autoplay controls muted loop height="100%">
+        <!-- Your video here -->
+        <source src="static/videos/overview_video_raw.mp4"
+        type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        The motivation, core methods, and visualization results of GaussianGraph. 
+      </h2>
+    </div>
+  </div>
+</section>
+<!-- End teaser video -->
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Recent advancements in 3D Gaussian Splatting(3DGS) have significantly improved semantic scene understanding, enabling natural language queries to localize objects within a scene. However, existing methods primarily focus on embedding compressed CLIP features to 3D Gaussians, suffering from low object segmentation accuracy and lack spatial reasoning capabilities. To address these limitations, we propose GaussianGraph, a novel framework that enhances 3DGS-based scene understanding by integrating adaptive semantic clustering and scene graph generation. We introduce a "Control-Follow" clustering strategy, which dynamically adapts to scene scale and feature distribution, avoiding feature compression and significantly improving segmentation accuracy. Additionally, we enrich scene representation by integrating object attributes and spatial relations extracted from 2D foundation models. To address inaccuracies in spatial relationships, we propose 3D correction modules that filter implausible relations through spatial consistency verification, ensuring reliable scene graph construction. Extensive experiments on three datasets demonstrate that GaussianGraph outperforms state-of-the-art methods in both semantic segmentation and object grounding tasks, providing a robust solution for complex scene understanding and interaction.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<!-- Image gallery section -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      
+      <!-- First image -->
+      <div style="display: flex; justify-content: center; margin-bottom: 50px;">
+        <!-- Inner container for width control -->
+        <div style="max-width: 80%; text-align: left;">
+          <img src="static/images/Method_Overview.jpg" style="width: 100%; height: auto; margin-bottom: 10px;" />
+          <h2 class="subtitle" style="margin: 0;">
+            The goal of GaussianGraph is constructing 3D scene graph in open-world scenes for downstream tasks. First, We extract 2D features including CLIP, segmentation, captions and relations. Foreground objects and object-pairs are input to LLaVA with prompts to generate captions and relations, which are combined with CLIP features and segmentation by mask index. Second, with posed multi-view images, we utilize 3DGS to reconstruct the scene and perform ``Control-Follow" clustering strategy to generate Gaussian clusters. Third, after 3D Gaussian clustering, we build 3D scene graph through rendering each cluster to multi-view images and match them with CLIP features, captions and relations. Finally, 3D correction modules are used to refine the scene graph with four sub-modules.
+          </h2>
+        </div>
+      </div>
+
+      <!-- Second image -->
+      <div style="display: flex; justify-content: center; margin-bottom: 50px;">
+        <!-- Inner container for width control -->
+        <div style="max-width: 60%; text-align: left;">
+          <img src="static/images/Object grounding on LERF.jpg" style="width: 100%; height: auto; margin-bottom: 10px;" />
+          <h2 class="subtitle" style="margin: 0;">
+            Object grounding on the LERF dataset. Our GaussianGraph can reason the accurate object category with less artifacts and noise.
+          </h2>
+        </div>
+      </div>
+     
+      <!-- Third image -->
+      <div style="display: flex; justify-content: center; margin-bottom: 50px;">
+        <!-- Inner container for width control -->
+        <div style="max-width: 60%; text-align: left;">
+          <img src="static/images/Downstream tasks.jpg" style="width: 100%; height: auto; margin-bottom: 10px;" />
+          <h2 class="subtitle" style="margin: 0;">
+            Downsteam tasks including visual question answering and object grounding. The model needs to accurately identify the object attributes(blue) and spatial relationships(red) contained in the query and infer the correct objects. In the object grounding task, our model effectively mitigates the interference caused by similar objects in adjacent areas.
+          </h2>
+        </div>
+      </div>
+
+    </div> <!-- end container -->
+  </div> <!-- end hero-body -->
+</section>
+<!-- End image gallery section -->
+
+
+<!-- Video Section -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h2 class="title is-3">More Results on Replica and ScanNet Datasets</h2>
+
+      <!-- Video -->
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <video autoplay muted loop controls style="max-width: 100%; height: auto; object-fit: cover;">
+          <source src="static/videos/scannet0000_compress.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+    </div> <!-- End Container -->
+  </div> <!-- End Hero Body -->
+</section>
+<!-- Video Section End -->
+  
+
+<!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@misc{wang2025gaussiangraph3dgaussianbasedscene,
+      title={GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding}, 
+      author={Xihan Wang and Dianyi Yang and Yu Gao and Yufeng Yue and Yi Yang and Mengyin Fu},
+      year={2025},
+      eprint={2503.04034},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.04034}, 
+}</code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>

@@ -1,0 +1,12 @@
+GaussianGraph/output 
+GaussianGraph/output_hua
+GaussianGraph/static
+GaussianGraph/dataset
+*.pt
+*.pth 
+GaussianGraph/submodules/llava/llava-next
+.history/
+*.jpg
+*.png
+*.jpeg
+*.bin
